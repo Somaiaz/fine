@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://glistening-bunny-ead123.netlify.app/sitemap.xml
